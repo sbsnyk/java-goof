@@ -5,7 +5,7 @@
     <groupId>io.github.snyk</groupId>
     <artifactId>todolist-mvc</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>Java Goof :: TodoList Goof</name>
+    <name>Java Goof :: TodoList Goof Test</name>
     <description>A vulnerable demo application, initially based on Ben Hassine's TodoMVC.</description>
     <url>https://github.com/snyk/java-goof</url>
 
